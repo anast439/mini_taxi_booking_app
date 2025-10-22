@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mini_taxi_booking_app/utils/appSize.dart';
+import 'package:mini_taxi_booking_app/utils/app_sizes.dart';
 
 class HeadingText extends StatelessWidget {
   final String title;

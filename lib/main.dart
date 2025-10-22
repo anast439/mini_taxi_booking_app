@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mini_taxi_booking_app/screens/home_screen.dart';
-import 'package:mini_taxi_booking_app/utils/appTheme.dart';
+import 'package:mini_taxi_booking_app/utils/app_theme.dart';
 
 void main() {
   runApp(const MyApp());

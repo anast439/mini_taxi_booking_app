@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mini_taxi_booking_app/screens/booking_confirmation_screen.dart';
-import 'package:mini_taxi_booking_app/utils/appSize.dart';
+import 'package:mini_taxi_booking_app/utils/app_sizes.dart';
 import 'package:mini_taxi_booking_app/utils/colors.dart';
 import 'package:mini_taxi_booking_app/widgets/appbar_widget.dart';
 import '../models/ride_model.dart';

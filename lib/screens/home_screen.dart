@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 import 'package:mini_taxi_booking_app/screens/available_rides_screen.dart';
-import 'package:mini_taxi_booking_app/utils/appSize.dart';
+import 'package:mini_taxi_booking_app/utils/app_sizes.dart';
 import 'package:mini_taxi_booking_app/widgets/appbar_widget.dart';
 import 'package:mini_taxi_booking_app/widgets/heading_text.dart';
 import 'package:mini_taxi_booking_app/widgets/primary_button.dart';
-import 'package:mini_taxi_booking_app/widgets/subTitle.dart';
+import 'package:mini_taxi_booking_app/widgets/sub_title.dart';
 import 'package:mini_taxi_booking_app/widgets/text_field_widget.dart';
 
 class HomeScreen extends StatefulWidget {

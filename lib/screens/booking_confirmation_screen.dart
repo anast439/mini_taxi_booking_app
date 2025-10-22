@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
-import 'package:mini_taxi_booking_app/utils/appSize.dart';
+import 'package:mini_taxi_booking_app/utils/app_sizes.dart';
 import 'package:mini_taxi_booking_app/widgets/appbar_widget.dart';
 import 'package:mini_taxi_booking_app/widgets/primary_button.dart';
 
